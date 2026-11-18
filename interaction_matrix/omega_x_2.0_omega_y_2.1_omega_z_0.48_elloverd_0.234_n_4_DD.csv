@@ -1,0 +1,21 @@
+# matrix_kind: DD-averaged effective interaction matrix
+# trap_frequencies_MHz: omega_x=2.0, omega_y=2.1, omega_z=0.48
+# ell_over_d: 0.234032014146325
+# n_ions_per_well: 4
+# total_ions: 8
+# well_separation_d: 31
+# detuning_scenario: 1
+# decouple_edges: True
+# dd_intervals_k: 4
+# delta_rad_s: 0.100863497367285
+# J_reference_rad_s: 0.00157599214636383
+# gate_time_tau_s: 249.175785935717
+# values: normalized interaction matrix; row i, column j
+0,0,0,0,0.983697947109489,0,-0,-0
+0,0,-0,0,0,0.999999995361981,0,-0
+0,-0,0,-0,-0,0,1,0
+0,0,-0,0,-0,-0,-0,0.983697962425944
+0.983697947109489,0,-0,-0,0,-0,0,0
+0,0.999999995361981,0,-0,-0,0,-0,0
+-0,0,1,-0,0,-0,0,-0
+-0,-0,0,0.983697962425944,0,0,-0,0
