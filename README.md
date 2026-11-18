@@ -1,0 +1,1 @@
+# Parallel_transversal_entangling_gates_for_FT_trapped-ion_QC
